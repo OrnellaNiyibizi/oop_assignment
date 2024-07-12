@@ -5,10 +5,10 @@ This project in JavaScript implements a system for managing university residence
 ## Features
 
 ## Classes Implemented:
-## Student:  Manages student details and assignments.
-## Residence: Handles rooms, student occupants, and maintenance requests.
-## Room: Represents individual rooms with occupancy tracking.
-## MaintenanceRequest: Allows students to report and manage maintenance issues.
+# Student:  Manages student details and assignments.
+# Residence: Handles rooms, student occupants, and maintenance requests.
+# Room: Represents individual rooms with occupancy tracking.
+# MaintenanceRequest: Allows students to report and manage maintenance issues.
 
 ## Usage
 
